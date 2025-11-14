@@ -13,6 +13,10 @@
 | **Team计划** | ¥627 /月 | 3000 GB /月 | 每月免费 / 550 CNY/次 | **30** | 不保证 | (同上) |
 | **私人节点定制** | ¥999 /月起 | 1TB /月 (可加) | 不够可加 | 不限制设备 | **支持** | BGP跨境专线; 1个自选地区; 住宅IP; 可按需解锁 |
 
+<img width="1241" height="290" alt="TAG 机场官网 套餐价格对比" src="https://github.com/user-attachments/assets/f018d115-69c8-405d-9ef5-eb9ba01eedd2" />
+
+<img width="1267" height="316" alt="TAG Pro 官网 计划对比" src="https://github.com/user-attachments/assets/7c668cdc-49b0-4d09-90bf-29ae3388f53d" />
+
 
 ## TAG Pro VPN 官网最新优惠码
 
